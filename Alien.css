@@ -77,11 +77,11 @@ button{
   top: 30%;
   left: 38%;
   transform: translate(-50%, -50%);
-  font-size: 48px;
-  color: #f00;
+  font-size: 30px;
+  color: #9d0202;
   display: none;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.8);
+  
   padding: 20px;
   border-radius: 10px;
   animation: popIn 0.3s forwards;
